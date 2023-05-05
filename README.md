@@ -1,6 +1,6 @@
 # Script de Fuzzing, Path Traversal y LFI-RFI
 
-Este script te permitira realizar Fuzzing a la pagina web DVWA, para que puedas extraer informacion utilizando el lenguaje de programacion Python
+Este script te permitira realizar Fuzzing a la pagina web `dvwa`, para extraer informacion utilizando el lenguaje de programacion Python
 
 ![Descripción de la imagen](dvwa3.png)
 
